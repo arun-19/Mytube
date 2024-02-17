@@ -1,0 +1,23 @@
+.link:hover{
+    text-decoration: none;
+    transform: scale(1.1,1.1);
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+
+    
+}
+*{
+    color: white;
+}
+#nav{
+    
+    background-color: rgba(19, 8, 8, 0.906);
+    box-shadow: inset 0px 0px 1.5px rgb(216, 215, 213);
+}
+#id img{
+   padding: 0;
+   margin: 0;
+   text-align: center;
+  border: 2px solid white;
+    background-color: rgb(76, 81, 85);
+}
+
